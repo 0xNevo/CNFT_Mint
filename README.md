@@ -6,7 +6,7 @@ Repository for Solana CNFT Mint - Next.js + Tailwind CSS + Solana/Web3
 
 # Description
 This repo contains a baseline of Messenger System based on Solana CNFT Mint
-
+This leverages the capabilities of the Solana blockchain and the Metaplex SDK to manage compressed non-fungible tokens (CNFTs). It allows users to upload metadata and create CNFTs.
 
 ## Setup
 
